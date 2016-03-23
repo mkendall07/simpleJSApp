@@ -1,0 +1,20 @@
+{
+    "PREFIX" : {
+        "UT_IFRAME": "utif_",
+        "UT_DIV": "div_utif_"
+    },
+    "LOG" :{
+        "WARN": "WARN"
+    },
+    "OBJECT_TYPE" :{
+        "UNDEFINED": "undefined",
+        "OBJECT": "object",
+        "STRING": "string",
+        "NUMBER": "number"
+    },
+    "BROWSER_TYPE" :{
+        "IE":"msie",
+        "OPERA":"opera"
+    }
+
+}

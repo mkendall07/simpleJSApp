@@ -1,0 +1,68 @@
+{
+  "name": "SimpleJsApp",
+  "version": "0.1.1",
+  "description": "Simple app",
+  "main": "simipleJsApp.js",
+  "scripts": {},
+  "author": [
+    {
+      "name": "AppNexus Client Side Tech",
+      "email": "cst@appnexus.com "
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Matt Kendall",
+      "email": "mkendall@appnexus.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "path_to_repo"
+  },
+  "license": "TBD",
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "gulp": "^3.9.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-header": "^1.2.2",
+    "gulp-jscs": "^1.4.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-karma": "0.0.4",
+    "gulp-preprocess": "^1.2.0",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^1.1.0",
+    "gulp-webpack": "^1.5.0",
+    "istanbul": "^0.4.2",
+    "istanbul-instrumenter-loader": "^0.2.0",
+    "jscs": "^2.1.1",
+    "json-loader": "^0.5.4",
+    "karma": "^0.13.9",
+    "karma-chrome-launcher": "*",
+    "karma-coverage": "^0.2.7",
+    "karma-es5-shim": "0.0.4",
+    "karma-expect": "^1.1.1",
+    "karma-firefox-launcher": "^0.1.7",
+    "karma-html-reporter": "^0.2.7",
+    "karma-ie-launcher": "^0.2.0",
+    "karma-junit-reporter": "^0.3.8",
+    "karma-mocha": "^0.2.0",
+    "karma-nyan-reporter": "0.0.60",
+    "karma-opera-launcher": "^0.3.0",
+    "karma-phantomjs-launcher": "^1.0.0",
+    "karma-requirejs": "^0.2.2",
+    "karma-safari-launcher": "^0.1.1",
+    "karma-sauce-launcher": "^0.3.0",
+    "karma-script-launcher": "^0.1.0",
+    "karma-sinon": "^1.0.4",
+    "karma-webpack": "^1.7.0",
+    "mocha": "^2.3.2",
+    "open": "0.0.5",
+    "phantomjs-prebuilt": "^2.1.4",
+    "requirejs": "^2.1.16",
+    "rewire-webpack": "^1.0.1",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {}
+}
